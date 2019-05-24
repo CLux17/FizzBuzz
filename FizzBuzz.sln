@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{95F64FBE-27CE-4B2A-AE20-A5A7DDF6A7C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTest", "FizzBuzzTest\FizzBuzzTest.csproj", "{D957F209-59B3-4647-8BA1-EAC30786C2C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Test", "FizzBuzzTest\FizzBuzz.Test.csproj", "{D957F209-59B3-4647-8BA1-EAC30786C2C7}"
 	ProjectSection(ProjectDependencies) = postProject
 		{95F64FBE-27CE-4B2A-AE20-A5A7DDF6A7C0} = {95F64FBE-27CE-4B2A-AE20-A5A7DDF6A7C0}
 	EndProjectSection

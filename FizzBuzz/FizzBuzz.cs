@@ -4,13 +4,11 @@ using System.Text;
 
 namespace FizzBuzz
 {
-    class FizzBuzz
+    public class FizzBuzz
     {
         public string Get(int num)
         {
             return null;
         }
     }
-
-
 }
