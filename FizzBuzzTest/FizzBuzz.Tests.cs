@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace FizzBuzzTest
+namespace FizzBuzzTests
 {
     public class FizzBuzzTests
     {
